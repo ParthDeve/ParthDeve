@@ -27,16 +27,10 @@ B.Tech Computer Technology student at Priyadarshini College of Engineering, Nagp
 
 ## Tech Stack
 
-### Languages
+
 <p><img src="https://skillicons.dev/icons?i=c,cpp,js" /></p>
-
-### Frontend
 <p><img src="https://skillicons.dev/icons?i=html,css,react,vite" /></p>
-
-### Backend & Databases
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
-
-### Cloud, DevOps & Tooling
 <p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,postman" /></p>
 
 ---

@@ -1,7 +1,3 @@
-<p align="center">
-<img width="100%" type=waving&height=260&color=0:6D28D9,50:4F46E5,100:3B82F6&text=Parth%20Santosh%20Chittalwar&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20C%2B%2B%20%26%20Systems%20Developer&descAlignY=62"/>
-</p>
-
 <h1 align="center">Software Engineer | C++ & Systems Developer</h1>
 
 <p align="center">

@@ -55,7 +55,7 @@ B.Tech Computer Technology student at Priyadarshini College of Engineering, Nagp
 ## GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ParthChittalwar&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ParthDeve&theme=tokyonight&no-frame=true"/>
 </p>
 
 ---

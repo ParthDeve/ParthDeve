@@ -28,7 +28,7 @@ B.Tech Computer Technology student at Priyadarshini College of Engineering, Nagp
 ## Tech Stack
 
 
-<p><img src="https://skillicons.dev/icons?i=c,cpp,js" /></p>
+<img src="https://skillicons.dev/icons?i=c,cpp,js" />
 <p><img src="https://skillicons.dev/icons?i=html,css,react,vite" /></p>
 <p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
 <p><img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,postman" /></p>

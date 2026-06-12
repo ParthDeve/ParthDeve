@@ -38,11 +38,6 @@ B.Tech Computer Technology student at Priyadarshini College of Engineering, Nagp
 
 ---
 
-## Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/parthchittalwar/)
-
----
 
 ## GitHub Analytics
 

@@ -1,3 +1,9 @@
+# Premium GitHub README for Parth Santosh Chittalwar
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6D28D9,50:4F46E5,100:3B82F6&text=Parth%20Santosh%20Chittalwar&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineer%20%7C%20C%2B%2B%20%26%20Systems%20Developer&descAlignY=62"/>
+</p>
+
 <h1 align="center">Software Engineer | C++ & Systems Developer</h1>
 
 <p align="center">
@@ -170,3 +176,50 @@ Priyadarshini College of Engineering
 
 ```text
 Enable GitHub Snake Action after creating profile repository.
+```
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced C++
+  - DSA
+  - OOP
+  - Operating Systems
+
+Building:
+  - Portfolio
+  - React Projects
+  - DSA Repository
+
+Exploring:
+  - Linux
+  - Docker
+  - AWS
+
+Open_To:
+  - Internships
+  - Open Source
+  - Collaborations
+```
+
+---
+
+## Connect
+
+- Email: chittalwarparth@gmail.com
+- LinkedIn: https://www.linkedin.com/in/parthchittalwar
+- GitHub: https://github.com/ParthChittalwar
+- Portfolio: https://parth-portfolio.chittalwarsantosh.workers.dev/
+
+---
+
+<p align="center">
+Build strong fundamentals. Technology changes, engineering principles endure.
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6D28D9,50:4F46E5,100:3B82F6"/>
+</p>
